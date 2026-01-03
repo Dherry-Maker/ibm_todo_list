@@ -43,7 +43,8 @@ const handleDeleteTodo = (index) => {
   return (
     <>
       <div className="todo-container">
-        <h1 className="title">My Todo List</h1>
+        <h1 className="title">Dherry is Boss</h1>
+        <h2>My to do List</h2>
         <div className="input-container">
           <input
             type="text"
